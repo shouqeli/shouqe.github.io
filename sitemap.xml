@@ -2,17 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://shouqeli.github.io/posts/my-first-post/</loc>
+    <loc>https://shouqe.xyz/posts/my-first-post/</loc>
     <lastmod>2023-04-29T17:57:12+08:00</lastmod>
   </url><url>
-    <loc>https://shouqeli.github.io/posts/</loc>
+    <loc>https://shouqe.xyz/posts/</loc>
     <lastmod>2023-04-29T17:57:12+08:00</lastmod>
   </url><url>
-    <loc>https://shouqeli.github.io/</loc>
+    <loc>https://shouqe.xyz/</loc>
     <lastmod>2023-04-29T17:57:12+08:00</lastmod>
   </url><url>
-    <loc>https://shouqeli.github.io/categories/</loc>
+    <loc>https://shouqe.xyz/posts/test/</loc>
   </url><url>
-    <loc>https://shouqeli.github.io/tags/</loc>
+    <loc>https://shouqe.xyz/categories/</loc>
+  </url><url>
+    <loc>https://shouqe.xyz/tags/</loc>
   </url>
 </urlset>
